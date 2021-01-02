@@ -26,4 +26,4 @@ $password_mysql = "YOUR-MYSQL-PASSWORD";
 
 COLLABORATIONS:
 
-Collaborations to improve this script are always webcome.
+Collaborations to improve script are always welcome.
