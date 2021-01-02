@@ -12,7 +12,7 @@ $database_name = "YOUR-MYSQL-DATABASE-NAME";
 $username_mysql = "YOUR-MYSQL-USERNAME";
 $password_mysql = "YOUR-MYSQL-PASSWORD";
 
-// ------------------------- Do not modify code nder this field -------------------------- //
+// ------------------------- Do not modify code under this field -------------------------- //
 
 
 function sanitize($variable){
